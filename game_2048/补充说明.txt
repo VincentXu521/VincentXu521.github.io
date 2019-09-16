@@ -1,3 +1,0 @@
-Chrome 可行；
-Eage IE不可行；
-why？
